@@ -13,19 +13,36 @@
 ## 💫 About Me
 
 - 💻 I'm currently working on **PeraClient**
+
 - 🌱 I'm currently learning **Java & Kotlin**
+
 - 👯 I'm looking to collaborate on **Lunar Client**
+
 - 🤝 I'm looking to connect with **Minecraft Developers**
-- 👨‍💻 All of my projects are available at **[urwahwajid.netlify.app](https://urwahwajid.netlify.app/)**
+
+- 👨‍💻 All of my projects are available at [urwahwajid.netlify.app](https://urwahwajid.netlify.app/)
+
 - 💬 Ask me about **Full Stack Development**
+
 - 📫 How to reach me **shaikhurwahofficial@gmail.com**
+
 - ⚡ Fun fact **Turning ideas into reality.**
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urwah-wajid/)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/urwah-wajid/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://discord.gg/nEW3dMEVDt" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+</p>
 
 ---
 
@@ -73,22 +90,28 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urwahdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=urwahdev&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urwahdev&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahdev&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwahdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=urwahdev&theme=dark&hide_border=true" />
+
 </p>
 
 ---
@@ -96,7 +119,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urwahdev&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=urwahdev&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
 </p>
 
 ---
@@ -104,7 +129,9 @@
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+
 </p>
 
 ---
@@ -112,11 +139,15 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=urwahdev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+<img src="https://github-contributor-stats.vercel.app/api?username=urwahdev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=urwahdev&icon=5&color=3" />
+
+<img src="https://komarev.com/ghpvc/?username=urwahdev&label=Profile%20Views&color=blueviolet&style=flat" />
+
 </p>
