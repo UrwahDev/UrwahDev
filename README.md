@@ -42,7 +42,7 @@ const urwah = {
 
 **[Live Demo](https://urwahwajid.netlify.app/)**
 
-> ⚠️ Ye repo abhi private/not-created hai, isliye GitHub pin card add nahi ki — jab public ho jaye to `[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=urwahdev&repo=PeraClient&theme=nord&border_color=7dd3fc)](https://github.com/urwahdev/PeraClient)` ye line yahan wapis add kar dena.
+> ⚠️ This repo is private right now 
 
 ---
 
