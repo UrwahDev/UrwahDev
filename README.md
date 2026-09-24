@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0e75b6&height=200&section=header&text=Urwah%20Wajid&fontSize=50&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0e75b6&height=250&section=header&text=Urwah%20Wajid&fontSize=42&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer&descAlignY=68&descSize=20)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -38,13 +38,11 @@ const urwah = {
 |---|---|
 | Frontend | React / Next.js |
 | Backend | Node.js |
-| Status | In Progress |
+| Status | In Progress (private repo) |
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=urwahdev&repo=PeraClient&theme=nord&border_color=7dd3fc)](https://github.com/urwahdev/PeraClient)
+**[Live Demo](https://urwahwajid.netlify.app/)**
 
-**[Live Demo](https://urwahwajid.netlify.app/) · [Code](https://github.com/urwahdev/PeraClient)**
-
-> ⚠️ Replace `PeraClient` above with your exact repo name/link if different, and add more project sections the same way.
+> ⚠️ Ye repo abhi private/not-created hai, isliye GitHub pin card add nahi ki — jab public ho jaye to `[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=urwahdev&repo=PeraClient&theme=nord&border_color=7dd3fc)](https://github.com/urwahdev/PeraClient)` ye line yahan wapis add kar dena.
 
 ---
 
