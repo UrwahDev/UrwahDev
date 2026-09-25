@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0e75b6&height=250&section=header&text=Urwah%20Wajid&fontSize=42&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer&descAlignY=68&descSize=20)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Urwah Wajid — Full Stack Web Developer, Pakistan, building PeraClient">
+</picture>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -42,7 +46,7 @@ const urwah = {
 
 **[Live Demo](https://urwahwajid.netlify.app/)**
 
-> ⚠️ This repo is private right now 
+> ⚠️ This repo is private right now
 
 ---
 
