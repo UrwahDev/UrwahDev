@@ -219,4 +219,196 @@
     </g>
 
     <g opacity="0">
-      <animate attribut
+      <animate attributeName="opacity" values="0;1" dur=".45s" begin=".18s" fill="freeze"/>
+      <rect x="501" y="88" width="655" height="498" rx="18" fill="#ffffff" fill-opacity="0.72"
+            stroke="#d8e2f0" stroke-width="1"/>
+      <text x="525" y="122" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15" font-weight="700"
+            fill="#0f1b2d" letter-spacing="1.5">SYSTEM.INFO</text>
+      <text x="1132" y="122" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11.5"
+            fill="#8a97ab">./profile.sh</text>
+      <text x="525" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5"
+            fill="#0891b2">urwahdev@dev<tspan fill="#51617a">:~$</tspan> cat profile.json</text>
+      <line x1="525" y1="158" x2="1132" y2="158" stroke="#d8e2f0"/>
+    
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.30s" fill="freeze"/>
+        <text x="525" y="188" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#6d28d9">&gt;</text>
+        <text x="541" y="188" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="1.5"
+              fill="#8a97ab">NAME</text>
+        <text x="665" y="188" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#0f1b2d" fill-opacity=".95">Urwah Wajid</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.35s" fill="freeze"/>
+        <text x="525" y="218" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#6d28d9">&gt;</text>
+        <text x="541" y="218" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="1.5"
+              fill="#8a97ab">ROLE</text>
+        <text x="665" y="218" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#0f1b2d" fill-opacity=".95">Full Stack Web Developer</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.40s" fill="freeze"/>
+        <text x="525" y="248" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#6d28d9">&gt;</text>
+        <text x="541" y="248" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="1.5"
+              fill="#8a97ab">LOCATION</text>
+        <text x="665" y="248" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#0f1b2d" fill-opacity=".95">Pakistan</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.45s" fill="freeze"/>
+        <text x="525" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#6d28d9">&gt;</text>
+        <text x="541" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="1.5"
+              fill="#8a97ab">BUILDING</text>
+        <text x="665" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#0f1b2d" fill-opacity=".95">PeraClient</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.50s" fill="freeze"/>
+        <text x="525" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#6d28d9">&gt;</text>
+        <text x="541" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="1.5"
+              fill="#8a97ab">LEARNING</text>
+        <text x="665" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#0f1b2d" fill-opacity=".95">Java · Kotlin</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.55s" fill="freeze"/>
+        <text x="525" y="338" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#6d28d9">&gt;</text>
+        <text x="541" y="338" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="1.5"
+              fill="#8a97ab">FOCUS</text>
+        <text x="665" y="338" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" fill="#0f1b2d" fill-opacity=".95">Web Apps · APIs · Tooling</text>
+      </g>
+<line x1="525" y1="368" x2="1132" y2="368" stroke="#d8e2f0"/>
+
+      <text x="525" y="386" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="2"
+            fill="#8a97ab">STACK</text>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.65s" fill="freeze"/>
+        <rect x="525.0" y="400.0" width="97.6" height="28" rx="14.0"
+              fill="#0f1b2d" fill-opacity="0.07" stroke="#d8e2f0" stroke-opacity=".55" stroke-width="1"/>
+        <circle cx="539.0" cy="414.0" r="2.4" fill="#0891b2">
+          <animate attributeName="opacity" values=".4;1;.4" dur="2.6s" begin="0.65s" repeatCount="indefinite"/>
+        </circle>
+        <text x="549.0" y="418.0" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"
+              fill="#0f1b2d" fill-opacity=".92">JavaScript</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.70s" fill="freeze"/>
+        <rect x="630.6" y="400.0" width="97.6" height="28" rx="14.0"
+              fill="#0f1b2d" fill-opacity="0.07" stroke="#d8e2f0" stroke-opacity=".55" stroke-width="1"/>
+        <circle cx="644.6" cy="414.0" r="2.4" fill="#0891b2">
+          <animate attributeName="opacity" values=".4;1;.4" dur="2.6s" begin="0.70s" repeatCount="indefinite"/>
+        </circle>
+        <text x="654.6" y="418.0" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"
+              fill="#0f1b2d" fill-opacity=".92">TypeScript</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.75s" fill="freeze"/>
+        <rect x="736.2" y="400.0" width="62.8" height="28" rx="14.0"
+              fill="#0f1b2d" fill-opacity="0.07" stroke="#d8e2f0" stroke-opacity=".55" stroke-width="1"/>
+        <circle cx="750.2" cy="414.0" r="2.4" fill="#0891b2">
+          <animate attributeName="opacity" values=".4;1;.4" dur="2.6s" begin="0.75s" repeatCount="indefinite"/>
+        </circle>
+        <text x="760.2" y="418.0" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"
+              fill="#0f1b2d" fill-opacity=".92">React</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.80s" fill="freeze"/>
+        <rect x="807.0" y="400.0" width="76.7" height="28" rx="14.0"
+              fill="#0f1b2d" fill-opacity="0.07" stroke="#d8e2f0" stroke-opacity=".55" stroke-width="1"/>
+        <circle cx="821.0" cy="414.0" r="2.4" fill="#0891b2">
+          <animate attributeName="opacity" values=".4;1;.4" dur="2.6s" begin="0.80s" repeatCount="indefinite"/>
+        </circle>
+        <text x="831.0" y="418.0" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"
+              fill="#0f1b2d" fill-opacity=".92">Next.js</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.85s" fill="freeze"/>
+        <rect x="891.7" y="400.0" width="76.7" height="28" rx="14.0"
+              fill="#0f1b2d" fill-opacity="0.07" stroke="#d8e2f0" stroke-opacity=".55" stroke-width="1"/>
+        <circle cx="905.7" cy="414.0" r="2.4" fill="#0891b2">
+          <animate attributeName="opacity" values=".4;1;.4" dur="2.6s" begin="0.85s" repeatCount="indefinite"/>
+        </circle>
+        <text x="915.7" y="418.0" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"
+              fill="#0f1b2d" fill-opacity=".92">Node.js</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.90s" fill="freeze"/>
+        <rect x="976.4" y="400.0" width="55.8" height="28" rx="14.0"
+              fill="#0f1b2d" fill-opacity="0.07" stroke="#d8e2f0" stroke-opacity=".55" stroke-width="1"/>
+        <circle cx="990.4" cy="414.0" r="2.4" fill="#0891b2">
+          <animate attributeName="opacity" values=".4;1;.4" dur="2.6s" begin="0.90s" repeatCount="indefinite"/>
+        </circle>
+        <text x="1000.4" y="418.0" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"
+              fill="#0f1b2d" fill-opacity=".92">Java</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="0.95s" fill="freeze"/>
+        <rect x="1040.3" y="400.0" width="69.8" height="28" rx="14.0"
+              fill="#0f1b2d" fill-opacity="0.07" stroke="#d8e2f0" stroke-opacity=".55" stroke-width="1"/>
+        <circle cx="1054.3" cy="414.0" r="2.4" fill="#0891b2">
+          <animate attributeName="opacity" values=".4;1;.4" dur="2.6s" begin="0.95s" repeatCount="indefinite"/>
+        </circle>
+        <text x="1064.3" y="418.0" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"
+              fill="#0f1b2d" fill-opacity=".92">Kotlin</text>
+      </g>
+
+      <text x="525" y="456" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="2"
+            fill="#8a97ab">PROJECTS</text>
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".4s" begin="1.05s" fill="freeze"/>
+        <rect x="525" y="470" width="607" height="34" rx="9"
+              fill="#0f1b2d" fill-opacity="0.028" stroke="#d8e2f0" stroke-width="1"/>
+        <text x="539" y="491" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" font-weight="700"
+              fill="#047857">PeraClient</text>
+        <text x="632.4" y="491" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"
+              fill="#51617a">Full-stack client — in progress</text>
+      </g>
+
+      <text x="525" y="532" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" letter-spacing="2"
+            fill="#8a97ab">LINKS</text>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="1.15s" fill="freeze"/>
+        <a xlink:href="https://github.com/urwahdev">
+          <text x="525" y="554" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5"
+                fill="#51617a" text-decoration="underline">GitHub</text>
+        </a>
+      </g>
+<text x="578.5" y="554" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#8a97ab">·</text>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="1.20s" fill="freeze"/>
+        <a xlink:href="https://www.linkedin.com/in/urwah-wajid/">
+          <text x="594.5" y="554" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5"
+                fill="#51617a" text-decoration="underline">LinkedIn</text>
+        </a>
+      </g>
+<text x="662.5" y="554" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#8a97ab">·</text>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="1.25s" fill="freeze"/>
+        <a xlink:href="https://urwahwajid.netlify.app/">
+          <text x="678.5" y="554" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5"
+                fill="#51617a" text-decoration="underline">Portfolio</text>
+        </a>
+      </g>
+<text x="753.8" y="554" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5" fill="#8a97ab">·</text>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" dur=".35s" begin="1.30s" fill="freeze"/>
+        <a xlink:href="mailto:shaikhurwahofficial@gmail.com">
+          <text x="769.75" y="554" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12.5"
+                fill="#51617a" text-decoration="underline">Email</text>
+        </a>
+      </g>
+</g>
+</g>
+</svg>
