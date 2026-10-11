@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Urwah Wajid — Full Stack Web Developer, Pakistan, building PeraClient">
+  <img src="./dark.svg" alt="Urwah Wajid — Full Stack Web Developer, Pakistan, building ZeroClient">
 </picture>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+PeraClient;Learning+Java+%26+Kotlin;Full+Stack+Developer;Turning+ideas+into+reality." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+ZeroClient;Learning+Java+%26+Kotlin;Full+Stack+Developer;Turning+ideas+into+reality." alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ const urwah = {
   title: "Full Stack Web Developer",
   location: "Pakistan",
   stack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Java", "Kotlin"],
-  currentlyBuilding: "PeraClient",
+  currentlyBuilding: "ZeroClient",
   currentlyLearning: ["Java", "Kotlin"],
   lookingToCollaborate: "Lunar Client",
   lookingToConnect: "Minecraft Developers",
@@ -37,7 +37,7 @@ const urwah = {
 
 ### 🚀 Featured Projects
 
-#### PeraClient
+#### ZeroClient
 | Layer | Technology |
 |---|---|
 | Frontend | React / Next.js |
